@@ -27,7 +27,7 @@
 #define BR_PORT_BITS	10
 #define BR_MAX_PORTS	(1<<BR_PORT_BITS)
 
-#define BR_VERSION	"2.2-eyurshe"
+#define BR_VERSION	"2.2-tlp"
 
 typedef struct bridge_id bridge_id;
 typedef struct mac_addr mac_addr;
